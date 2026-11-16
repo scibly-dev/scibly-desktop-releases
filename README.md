@@ -1,6 +1,8 @@
 # Scibly for Mac
 
-**[⬇ Download Scibly.dmg](https://github.com/scibly-dev/scibly-desktop-releases/releases/latest/download/Scibly.dmg)** · [All releases](https://github.com/scibly-dev/scibly-desktop-releases/releases)
+> [!TIP]
+> **[⬇ Get Scibly from the latest release](https://github.com/scibly-dev/scibly-desktop-releases/releases/latest)**: download **Scibly.dmg** under *Assets*.
+> Older versions are under [all releases](https://github.com/scibly-dev/scibly-desktop-releases/releases).
 
 Needs macOS 14.2 or later, on Apple silicon or Intel.
 
@@ -12,11 +14,11 @@ Needs macOS 14.2 or later, on Apple silicon or Intel.
 > xattr -dr com.apple.quarantine ~/Downloads/Scibly.dmg
 > ```
 >
-> Saved the DMG somewhere else? Change the path. Only run this on a file you downloaded from this page.
+> Saved the DMG somewhere else? Change the path. Only run this on a file you downloaded from these releases.
 
 ## Install
 
-1. Download **Scibly.dmg** (link above).
+1. Download **Scibly.dmg** from the [latest release](https://github.com/scibly-dev/scibly-desktop-releases/releases/latest).
 2. Run the command above in Terminal.
 3. Open the DMG and drag Scibly into Applications.
 
